@@ -14,6 +14,7 @@ void prt_symbol(int i);
 int all_1_flag = 0; //全加号
 int all_3_flag = 0; //全乘号
 
+//测试下git
 int main()
 {
     float num_f[4];
